@@ -1,0 +1,634 @@
+2021-09-23 20:50:39,831 - InternetGuru99Bank -INFO - Firefox::Browser::Opened
+2021-09-23 20:50:40,123 - InternetGuru99Bank -INFO - Firefox::Browser::maximized
+2021-09-23 20:50:51,953 - InternetGuru99Bank -INFO - Firefox::url::entered
+2021-09-23 20:53:02,005 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-23 20:53:02,353 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-23 20:53:06,774 - DemoBank -INFO - Firefox::url::entered
+2021-09-23 20:59:18,012 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-23 20:59:18,037 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-23 20:59:22,558 - DemoBank -INFO - Firefox::url::entered
+2021-09-23 21:18:51,368 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-23 21:18:51,517 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-23 21:18:56,042 - DemoBank -INFO - Firefox::url::entered
+2021-09-23 21:23:20,744 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-23 21:23:21,309 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-23 21:23:25,078 - DemoBank -INFO - Firefox::url::entered
+2021-09-23 21:24:03,271 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-23 21:24:03,592 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-23 21:24:07,724 - DemoBank -INFO - Firefox::url::entered
+2021-09-23 21:24:48,726 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-23 21:24:49,050 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-23 21:24:53,830 - DemoBank -INFO - Firefox::url::entered
+2021-09-24 00:20:07,029 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-24 00:20:08,088 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-24 00:20:18,013 - DemoBank -INFO - Firefox::url::entered
+2021-09-24 00:26:04,567 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-24 00:26:04,620 - DemoBank -INFO - Firefox::Browser::maximized
+2021-09-24 00:26:09,878 - DemoBank -INFO - Firefox::url::entered
+2021-09-24 10:13:18,271 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-24 10:13:18,652 - DemoBank -INFO - Browser::Maximized
+2021-09-24 10:13:23,814 - DemoBank -INFO - url entered
+2021-09-24 10:13:24,295 - DemoBank -INFO - ::link::Checked::
+2021-09-24 10:13:33,909 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-24 10:13:34,015 - DemoBank -INFO - Browser::Maximized
+2021-09-24 10:13:38,481 - DemoBank -INFO - url entered
+2021-09-24 10:13:39,153 - DemoBank -INFO - ::logo::Checked::
+2021-09-24 10:13:47,928 - DemoBank -INFO - Firefox::Browser::Opened
+2021-09-24 10:13:47,988 - DemoBank -INFO - Browser::Maximized
+2021-09-24 10:13:52,626 - DemoBank -INFO - url entered
+2021-09-24 10:13:53,323 - DemoBank -INFO - Username:::Entered
+2021-09-24 10:13:53,365 - DemoBank -INFO - Password:::Entered
+2021-09-24 10:13:55,840 - DemoBank -INFO - Button::::Clicked
+2021-09-24 10:17:01,670 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 10:17:01,896 - DemoBank -INFO - Browser::Maximized
+2021-09-24 10:17:05,807 - DemoBank -INFO - url entered
+2021-09-24 10:17:06,213 - DemoBank -INFO - ::link::Checked::
+2021-09-24 10:17:08,803 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 10:17:08,927 - DemoBank -INFO - Browser::Maximized
+2021-09-24 10:17:14,991 - DemoBank -INFO - url entered
+2021-09-24 10:17:15,748 - DemoBank -INFO - ::logo::Checked::
+2021-09-24 10:17:18,390 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 10:17:18,545 - DemoBank -INFO - Browser::Maximized
+2021-09-24 10:17:24,503 - DemoBank -INFO - url entered
+2021-09-24 10:17:25,413 - DemoBank -INFO - Username:::Entered
+2021-09-24 10:17:25,569 - DemoBank -INFO - Password:::Entered
+2021-09-24 10:17:28,497 - DemoBank -INFO - Button::::Clicked
+2021-09-24 11:03:46,204 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 11:03:46,412 - DemoBank -INFO - Browser::Maximized
+2021-09-24 11:03:50,710 - DemoBank -INFO - url entered
+2021-09-24 11:03:52,333 - DemoBank -INFO - ::link::Checked::
+2021-09-24 11:03:59,172 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 11:03:59,305 - DemoBank -INFO - Browser::Maximized
+2021-09-24 11:04:05,026 - DemoBank -INFO - url entered
+2021-09-24 11:04:05,862 - DemoBank -INFO - ::logo::Checked::
+2021-09-24 11:04:11,892 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 11:04:12,015 - DemoBank -INFO - Browser::Maximized
+2021-09-24 11:04:16,420 - DemoBank -INFO - url entered
+2021-09-24 11:04:17,148 - DemoBank -INFO - Username:::Entered
+2021-09-24 11:04:17,249 - DemoBank -INFO - Password:::Entered
+2021-09-24 11:04:19,254 - DemoBank -INFO - Button::::Clicked
+2021-09-24 11:24:56,606 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 11:24:56,769 - DemoBank -INFO - Browser::Maximized
+2021-09-24 11:25:00,554 - DemoBank -INFO - url entered
+2021-09-24 11:25:01,494 - DemoBank -INFO - ::link::Checked::
+2021-09-24 11:25:07,815 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 11:25:07,936 - DemoBank -INFO - Browser::Maximized
+2021-09-24 11:25:12,467 - DemoBank -INFO - url entered
+2021-09-24 11:25:13,269 - DemoBank -INFO - ::logo::Checked::
+2021-09-24 11:25:19,802 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-24 11:25:19,941 - DemoBank -INFO - Browser::Maximized
+2021-09-24 11:25:23,962 - DemoBank -INFO - url entered
+2021-09-24 11:25:24,930 - DemoBank -INFO - Username:::Entered
+2021-09-24 11:25:25,040 - DemoBank -INFO - Password:::Entered
+2021-09-24 11:25:26,704 - DemoBank -INFO - Button::::Clicked
+2021-09-25 11:39:52,382 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:39:52,842 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:39:57,827 - DemoBank -INFO - url entered
+2021-09-25 11:40:00,671 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:40:00,781 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:40:03,420 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:40:03,512 - DemoBank -INFO - Login passed
+2021-09-25 11:40:12,545 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:40:12,684 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:40:16,743 - DemoBank -INFO - url entered
+2021-09-25 11:40:17,423 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:40:17,531 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:40:18,050 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:40:24,629 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:40:24,829 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:40:29,069 - DemoBank -INFO - url entered
+2021-09-25 11:40:29,776 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:40:29,882 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:40:30,422 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:43:56,036 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:43:56,203 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:44:01,188 - DemoBank -INFO - url entered
+2021-09-25 11:44:02,058 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:44:02,158 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:44:04,048 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:44:04,097 - DemoBank -INFO - Login passed
+2021-09-25 11:44:17,391 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:44:17,518 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:44:22,475 - DemoBank -INFO - url entered
+2021-09-25 11:44:23,281 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:44:23,386 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:44:23,928 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:44:32,205 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:44:32,330 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:44:37,057 - DemoBank -INFO - url entered
+2021-09-25 11:44:37,954 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:44:38,058 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:44:38,592 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:46:07,395 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:46:07,556 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:46:12,245 - DemoBank -INFO - url entered
+2021-09-25 11:46:13,228 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:46:13,332 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:46:15,743 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:46:15,772 - DemoBank -INFO - Login passed
+2021-09-25 11:46:27,875 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:46:27,998 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:46:32,443 - DemoBank -INFO - url entered
+2021-09-25 11:46:33,265 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:46:33,369 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:46:33,888 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:46:36,553 - DemoBank -WARN - Login failed
+2021-09-25 11:46:41,601 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:46:41,728 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:46:46,724 - DemoBank -INFO - url entered
+2021-09-25 11:46:47,467 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:46:47,567 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:46:48,109 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:46:50,416 - DemoBank -WARN - Login failed
+2021-09-25 11:48:56,760 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:48:56,925 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:49:01,867 - DemoBank -INFO - url entered
+2021-09-25 11:49:02,691 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:49:02,796 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:49:05,635 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:49:05,664 - DemoBank -INFO - Login passed
+2021-09-25 11:49:18,960 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:49:19,082 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:49:23,767 - DemoBank -INFO - url entered
+2021-09-25 11:49:24,483 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:49:24,582 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:49:26,955 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:49:26,963 - DemoBank -INFO - Login passed
+2021-09-25 11:49:39,677 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:49:39,810 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:49:44,629 - DemoBank -INFO - url entered
+2021-09-25 11:49:45,499 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:49:45,602 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:49:47,640 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:49:47,649 - DemoBank -INFO - Login passed
+2021-09-25 11:50:00,351 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:50:00,479 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:50:05,013 - DemoBank -INFO - url entered
+2021-09-25 11:50:05,763 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:50:05,861 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:50:06,442 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:54:00,644 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:54:00,811 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:54:06,487 - DemoBank -INFO - url entered
+2021-09-25 11:54:07,302 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:54:07,407 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:54:09,776 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:54:09,809 - DemoBank -INFO - Login passed
+2021-09-25 11:54:25,060 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:54:25,185 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:54:29,499 - DemoBank -INFO - url entered
+2021-09-25 11:54:30,222 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:54:30,323 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:54:32,579 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:54:32,585 - DemoBank -INFO - Login passed
+2021-09-25 11:54:45,589 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:54:45,714 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:54:49,815 - DemoBank -INFO - url entered
+2021-09-25 11:54:50,531 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:54:50,632 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:54:52,898 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:54:52,905 - DemoBank -INFO - Login passed
+2021-09-25 11:55:06,126 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:55:06,247 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:55:10,368 - DemoBank -INFO - url entered
+2021-09-25 11:55:11,114 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:55:11,212 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:55:11,740 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:58:58,742 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:58:58,913 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:59:04,560 - DemoBank -INFO - url entered
+2021-09-25 11:59:05,799 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:59:05,913 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:59:08,558 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:59:08,588 - DemoBank -INFO - Login passed
+2021-09-25 11:59:19,782 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:59:19,938 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:59:24,226 - DemoBank -INFO - url entered
+2021-09-25 11:59:25,062 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:59:25,176 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:59:27,716 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:59:27,720 - DemoBank -INFO - Login passed
+2021-09-25 11:59:37,121 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:59:37,255 - DemoBank -INFO - Browser::Maximized
+2021-09-25 11:59:42,747 - DemoBank -INFO - url entered
+2021-09-25 11:59:43,660 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 11:59:43,785 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 11:59:46,334 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 11:59:46,338 - DemoBank -INFO - Login passed
+2021-09-25 11:59:58,921 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 11:59:59,060 - DemoBank -INFO - Browser::Maximized
+2021-09-25 12:00:03,543 - DemoBank -INFO - url entered
+2021-09-25 12:00:04,296 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 12:00:04,401 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 12:00:04,952 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 12:14:57,079 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 12:14:57,243 - DemoBank -INFO - Browser::Maximized
+2021-09-25 12:15:02,194 - DemoBank -INFO - url entered
+2021-09-25 12:15:03,066 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 12:15:03,173 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 12:15:04,943 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 12:15:05,510 - DemoBank -INFO - Login passed
+2021-09-25 12:15:19,091 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 12:15:19,213 - DemoBank -INFO - Browser::Maximized
+2021-09-25 12:15:24,433 - DemoBank -INFO - url entered
+2021-09-25 12:15:25,341 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 12:15:25,448 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 12:15:27,576 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 12:15:27,798 - DemoBank -INFO - Login passed
+2021-09-25 12:15:40,041 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 12:15:40,168 - DemoBank -INFO - Browser::Maximized
+2021-09-25 12:15:44,478 - DemoBank -INFO - url entered
+2021-09-25 12:15:45,400 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 12:15:45,521 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 12:15:47,787 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 12:15:48,051 - DemoBank -INFO - Login passed
+2021-09-25 12:16:00,991 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 12:16:01,106 - DemoBank -INFO - Browser::Maximized
+2021-09-25 12:16:05,402 - DemoBank -INFO - url entered
+2021-09-25 12:16:06,322 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 12:16:06,430 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 12:16:06,967 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 20:33:08,188 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:33:08,764 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:33:14,355 - DemoBank -INFO - url entered
+2021-09-25 20:33:15,090 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:33:15,548 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:33:18,546 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 20:33:19,194 - DemoBank -INFO - Login passed
+2021-09-25 20:33:30,350 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:33:30,520 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:33:35,474 - DemoBank -INFO - url entered
+2021-09-25 20:33:36,259 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:33:36,361 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:33:38,474 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 20:33:38,484 - DemoBank -INFO - Login passed
+2021-09-25 20:33:46,984 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:33:47,109 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:33:52,166 - DemoBank -INFO - url entered
+2021-09-25 20:33:53,055 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:33:53,166 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:33:56,063 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 20:33:56,072 - DemoBank -INFO - Login passed
+2021-09-25 20:34:05,123 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:34:05,271 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:34:09,709 - DemoBank -INFO - url entered
+2021-09-25 20:34:09,886 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:34:09,986 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:34:10,590 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 20:50:48,364 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:50:48,529 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:50:54,638 - DemoBank -INFO - url entered
+2021-09-25 20:50:55,428 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:50:56,081 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:51:05,030 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:51:05,158 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:51:10,525 - DemoBank -INFO - url entered
+2021-09-25 20:51:11,857 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:51:12,505 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:51:21,439 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:51:21,564 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:51:26,686 - DemoBank -INFO - url entered
+2021-09-25 20:51:28,078 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:51:28,810 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 20:51:38,184 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 20:51:38,318 - DemoBank -INFO - Browser::Maximized
+2021-09-25 20:51:44,277 - DemoBank -INFO - url entered
+2021-09-25 20:51:45,819 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 20:51:46,556 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:19:26,331 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:19:26,543 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:19:31,655 - DemoBank -INFO - url entered
+2021-09-25 21:19:32,677 - DemoBank -INFO - ::link::Checked::
+2021-09-25 21:19:39,085 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:19:39,266 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:19:44,403 - DemoBank -INFO - url entered
+2021-09-25 21:19:45,250 - DemoBank -INFO - ::logo::Checked::
+2021-09-25 21:19:51,515 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:19:51,709 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:19:56,266 - DemoBank -INFO - url entered
+2021-09-25 21:19:57,809 - DemoBank -INFO - Username:::Entered
+2021-09-25 21:19:58,534 - DemoBank -INFO - Password:::Entered
+2021-09-25 21:20:01,167 - DemoBank -INFO - Button::::Clicked
+2021-09-25 21:22:17,174 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:22:17,384 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:22:22,904 - DemoBank -INFO - url entered
+2021-09-25 21:22:24,538 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:22:25,215 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:22:27,568 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:22:27,603 - DemoBank -INFO - Login passed
+2021-09-25 21:22:43,183 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:22:43,808 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:22:48,849 - DemoBank -INFO - url entered
+2021-09-25 21:22:50,515 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:22:51,255 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:22:53,994 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:22:54,011 - DemoBank -INFO - Login passed
+2021-09-25 21:23:03,811 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:23:03,995 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:23:09,324 - DemoBank -INFO - url entered
+2021-09-25 21:23:11,306 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:23:11,977 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:23:14,564 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:23:14,576 - DemoBank -INFO - Login passed
+2021-09-25 21:23:24,061 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:23:24,179 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:23:28,321 - DemoBank -INFO - url entered
+2021-09-25 21:23:29,628 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:23:30,385 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:23:31,926 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:35:57,420 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:35:57,592 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:36:03,416 - DemoBank -INFO - url entered
+2021-09-25 21:36:05,090 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:36:05,811 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:36:08,249 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:36:08,294 - DemoBank -INFO - Login passed
+2021-09-25 21:36:20,338 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:36:20,503 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:36:25,658 - DemoBank -INFO - url entered
+2021-09-25 21:36:27,155 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:36:27,878 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:36:29,729 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:36:29,737 - DemoBank -INFO - Login passed
+2021-09-25 21:36:39,027 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:36:39,155 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:36:43,675 - DemoBank -INFO - url entered
+2021-09-25 21:36:44,346 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:36:45,102 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:36:47,416 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:36:47,438 - DemoBank -INFO - Login passed
+2021-09-25 21:36:59,586 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:36:59,712 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:37:04,867 - DemoBank -INFO - url entered
+2021-09-25 21:37:06,645 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:37:07,335 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:37:08,176 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:38:33,454 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:38:33,628 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:38:38,107 - DemoBank -INFO - url entered
+2021-09-25 21:38:39,607 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:38:40,354 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:38:43,376 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:38:47,715 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:38:47,854 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:38:52,503 - DemoBank -INFO - url entered
+2021-09-25 21:38:54,026 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:38:54,796 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:38:58,075 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:39:02,365 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:39:02,504 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:39:06,624 - DemoBank -INFO - url entered
+2021-09-25 21:39:07,895 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:39:08,670 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:39:10,887 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:39:15,471 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:39:15,601 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:39:20,381 - DemoBank -INFO - url entered
+2021-09-25 21:39:21,977 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:39:22,722 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:39:24,141 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:40:25,054 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:40:25,223 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:40:30,926 - DemoBank -INFO - url entered
+2021-09-25 21:40:32,345 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:40:33,129 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:40:36,719 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:40:38,964 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:40:39,152 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:40:43,681 - DemoBank -INFO - url entered
+2021-09-25 21:40:45,246 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:40:45,924 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:40:49,241 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:40:53,523 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:40:53,670 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:40:58,703 - DemoBank -INFO - url entered
+2021-09-25 21:41:00,202 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:41:00,889 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:41:03,966 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:41:09,764 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:41:10,010 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:41:14,660 - DemoBank -INFO - url entered
+2021-09-25 21:41:15,931 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:41:16,632 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:41:17,935 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:44:52,477 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:44:52,656 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:44:57,031 - DemoBank -INFO - url entered
+2021-09-25 21:44:58,529 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:44:59,180 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:45:01,911 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:45:01,950 - DemoBank -INFO - Login passed
+2021-09-25 21:45:09,946 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:45:10,185 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:45:14,634 - DemoBank -INFO - url entered
+2021-09-25 21:45:16,052 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:45:16,701 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:45:18,737 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:45:18,748 - DemoBank -INFO - Login passed
+2021-09-25 21:45:29,185 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:45:29,306 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:45:33,230 - DemoBank -INFO - url entered
+2021-09-25 21:45:34,446 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:45:35,097 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:45:37,368 - DemoBank -INFO - ::::login clicked:::
+2021-09-25 21:45:37,379 - DemoBank -INFO - Login passed
+2021-09-25 21:45:45,887 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-25 21:45:46,017 - DemoBank -INFO - Browser::Maximized
+2021-09-25 21:45:49,457 - DemoBank -INFO - url entered
+2021-09-25 21:45:50,135 - DemoBank -INFO - ::::username Entered:::
+2021-09-25 21:45:50,788 - DemoBank -INFO - ::::password Entered:::
+2021-09-25 21:45:51,339 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 11:51:22,689 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 11:51:23,047 - DemoBank -INFO - Browser::Maximized
+2021-09-26 11:51:28,643 - DemoBank -INFO - url entered
+2021-09-26 11:51:30,196 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 11:51:30,842 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 11:51:33,331 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 11:51:33,474 - DemoBank -INFO - Login passed
+2021-09-26 11:51:43,415 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 11:51:43,534 - DemoBank -INFO - Browser::Maximized
+2021-09-26 11:51:48,599 - DemoBank -INFO - url entered
+2021-09-26 11:51:50,052 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 11:51:50,695 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 11:51:52,929 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 11:51:52,933 - DemoBank -INFO - Login passed
+2021-09-26 11:52:03,704 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 11:52:03,823 - DemoBank -INFO - Browser::Maximized
+2021-09-26 11:52:08,615 - DemoBank -INFO - url entered
+2021-09-26 11:52:10,166 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 11:52:10,817 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 11:52:13,437 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 11:52:13,440 - DemoBank -INFO - Login passed
+2021-09-26 11:52:25,624 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 11:52:25,739 - DemoBank -INFO - Browser::Maximized
+2021-09-26 11:52:29,481 - DemoBank -INFO - url entered
+2021-09-26 11:52:30,827 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 11:52:31,481 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 11:52:32,608 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 12:10:29,295 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:10:29,463 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:10:34,503 - DemoBank -INFO - url entered
+2021-09-26 12:10:35,878 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 12:10:36,526 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 12:10:40,113 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 12:10:40,148 - DemoBank -INFO - Login passed
+2021-09-26 12:10:49,043 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:10:49,167 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:10:53,981 - DemoBank -INFO - url entered
+2021-09-26 12:10:55,479 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 12:10:56,119 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 12:10:58,996 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 12:10:59,002 - DemoBank -INFO - Login passed
+2021-09-26 12:11:07,185 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:11:07,309 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:11:12,515 - DemoBank -INFO - url entered
+2021-09-26 12:11:13,759 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 12:11:14,401 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 12:11:16,068 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 12:11:16,075 - DemoBank -INFO - Login passed
+2021-09-26 12:11:25,103 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:11:25,253 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:11:29,105 - DemoBank -INFO - url entered
+2021-09-26 12:11:30,317 - DemoBank -INFO - ::::username Entered:::
+2021-09-26 12:11:31,010 - DemoBank -INFO - ::::password Entered:::
+2021-09-26 12:11:31,889 - DemoBank -INFO - ::::login clicked:::
+2021-09-26 12:12:51,222 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:12:51,398 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:12:56,412 - DemoBank -INFO - url entered
+2021-09-26 12:12:57,208 - DemoBank -INFO - ::link::Checked::
+2021-09-26 12:12:59,735 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:12:59,877 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:13:04,779 - DemoBank -INFO - url entered
+2021-09-26 12:13:05,620 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 12:13:08,060 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:13:08,188 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:13:13,558 - DemoBank -INFO - url entered
+2021-09-26 12:13:14,898 - DemoBank -INFO - Username:::Entered
+2021-09-26 12:13:15,536 - DemoBank -INFO - Password:::Entered
+2021-09-26 12:13:18,617 - DemoBank -INFO - Button::::Clicked
+2021-09-26 12:13:33,689 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:13:33,878 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:13:38,019 - DemoBank -INFO - url entered
+2021-09-26 12:13:38,132 - DemoBank -INFO - ::link::Checked::
+2021-09-26 12:13:40,693 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:13:40,834 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:13:45,407 - DemoBank -INFO - url entered
+2021-09-26 12:13:46,093 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 12:13:50,325 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 12:13:50,453 - DemoBank -INFO - Browser::Maximized
+2021-09-26 12:13:55,200 - DemoBank -INFO - url entered
+2021-09-26 12:13:56,612 - DemoBank -INFO - Username:::Entered
+2021-09-26 12:13:57,344 - DemoBank -INFO - Password:::Entered
+2021-09-26 12:14:00,645 - DemoBank -INFO - Button::::Clicked
+2021-09-26 13:07:05,255 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:07:05,441 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:07:10,848 - DemoBank -INFO - url entered
+2021-09-26 13:07:12,174 - DemoBank -INFO - ::link::Checked::
+2021-09-26 13:07:14,814 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:07:14,941 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:07:19,128 - DemoBank -INFO - url entered
+2021-09-26 13:07:19,828 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 13:07:24,004 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:07:24,128 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:07:28,880 - DemoBank -INFO - url entered
+2021-09-26 13:07:30,466 - DemoBank -INFO - Username:::Entered
+2021-09-26 13:07:31,110 - DemoBank -INFO - Password:::Entered
+2021-09-26 13:07:34,765 - DemoBank -INFO - Button::::Clicked
+2021-09-26 13:14:53,334 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:14:53,731 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:14:58,913 - DemoBank -INFO - url entered
+2021-09-26 13:14:59,209 - DemoBank -INFO - ::link::Checked::
+2021-09-26 13:15:05,113 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:15:05,232 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:15:10,362 - DemoBank -INFO - url entered
+2021-09-26 13:15:10,993 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 13:15:17,769 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:15:17,895 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:15:23,303 - DemoBank -INFO - url entered
+2021-09-26 13:15:24,643 - DemoBank -INFO - Username:::Entered
+2021-09-26 13:15:25,284 - DemoBank -INFO - Password:::Entered
+2021-09-26 13:15:27,848 - DemoBank -INFO - Button::::Clicked
+2021-09-26 13:16:51,577 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:16:52,038 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:16:57,371 - DemoBank -INFO - url entered
+2021-09-26 13:16:58,595 - DemoBank -INFO - ::link::Checked::
+2021-09-26 13:17:09,516 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:17:09,643 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:17:14,393 - DemoBank -INFO - url entered
+2021-09-26 13:17:15,064 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 13:17:25,429 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:17:25,555 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:17:30,634 - DemoBank -INFO - url entered
+2021-09-26 13:17:32,054 - DemoBank -INFO - Username:::Entered
+2021-09-26 13:17:32,701 - DemoBank -INFO - Password:::Entered
+2021-09-26 13:17:35,490 - DemoBank -INFO - Button::::Clicked
+2021-09-26 13:19:29,201 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:19:29,733 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:19:34,980 - DemoBank -INFO - url entered
+2021-09-26 13:19:36,503 - DemoBank -INFO - ::link::Checked::
+2021-09-26 13:19:42,389 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:19:42,504 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:19:47,978 - DemoBank -INFO - url entered
+2021-09-26 13:19:48,925 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 13:19:55,276 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:19:55,397 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:20:00,370 - DemoBank -INFO - url entered
+2021-09-26 13:20:01,679 - DemoBank -INFO - Username:::Entered
+2021-09-26 13:20:02,348 - DemoBank -INFO - Password:::Entered
+2021-09-26 13:20:05,545 - DemoBank -INFO - Button::::Clicked
+2021-09-26 13:21:38,507 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:21:38,814 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:21:43,676 - DemoBank -INFO - url entered
+2021-09-26 13:21:44,540 - DemoBank -INFO - ::link::Checked::
+2021-09-26 13:21:50,729 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:21:50,852 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:21:55,385 - DemoBank -INFO - url entered
+2021-09-26 13:21:56,040 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 13:22:02,226 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:22:02,345 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:22:07,685 - DemoBank -INFO - url entered
+2021-09-26 13:22:09,459 - DemoBank -INFO - Username:::Entered
+2021-09-26 13:22:10,110 - DemoBank -INFO - Password:::Entered
+2021-09-26 13:22:13,586 - DemoBank -INFO - Button::::Clicked
+2021-09-26 13:24:31,543 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:24:31,924 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:24:37,793 - DemoBank -INFO - url entered
+2021-09-26 13:24:39,256 - DemoBank -INFO - ::link::Checked::
+2021-09-26 13:24:46,959 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:24:47,084 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:24:52,288 - DemoBank -INFO - url entered
+2021-09-26 13:24:52,958 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 13:25:00,474 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 13:25:00,601 - DemoBank -INFO - Browser::Maximized
+2021-09-26 13:25:05,780 - DemoBank -INFO - url entered
+2021-09-26 13:25:07,360 - DemoBank -INFO - Username:::Entered
+2021-09-26 13:25:08,005 - DemoBank -INFO - Password:::Entered
+2021-09-26 13:25:10,836 - DemoBank -INFO - Button::::Clicked
+2021-09-26 15:40:33,920 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 15:40:34,339 - DemoBank -INFO - Browser::Maximized
+2021-09-26 15:40:39,696 - DemoBank -INFO - url entered
+2021-09-26 15:40:41,428 - DemoBank -INFO - ::link::Checked::
+2021-09-26 15:40:47,659 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 15:40:47,785 - DemoBank -INFO - Browser::Maximized
+2021-09-26 15:40:53,305 - DemoBank -INFO - url entered
+2021-09-26 15:40:54,202 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 15:41:00,654 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 15:41:00,793 - DemoBank -INFO - Browser::Maximized
+2021-09-26 15:41:05,418 - DemoBank -INFO - url entered
+2021-09-26 15:41:06,805 - DemoBank -INFO - Username:::Entered
+2021-09-26 15:41:07,532 - DemoBank -INFO - Password:::Entered
+2021-09-26 15:41:11,102 - DemoBank -INFO - Button::::Clicked
+2021-09-26 15:59:27,419 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 15:59:27,756 - DemoBank -INFO - Browser::Maximized
+2021-09-26 15:59:32,130 - DemoBank -INFO - url entered
+2021-09-26 15:59:32,978 - DemoBank -INFO - ::link::Checked::
+2021-09-26 15:59:35,458 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 15:59:35,589 - DemoBank -INFO - Browser::Maximized
+2021-09-26 15:59:39,914 - DemoBank -INFO - url entered
+2021-09-26 15:59:40,674 - DemoBank -INFO - ::logo::Checked::
+2021-09-26 15:59:42,927 - DemoBank -INFO - Chrome::Browser::Opened
+2021-09-26 15:59:43,046 - DemoBank -INFO - Browser::Maximized
+2021-09-26 15:59:46,827 - DemoBank -INFO - url entered
+2021-09-26 15:59:48,084 - DemoBank -INFO - Username:::Entered
+2021-09-26 15:59:48,780 - DemoBank -INFO - Password:::Entered
+2021-09-26 15:59:52,035 - DemoBank -INFO - Button::::Clicked

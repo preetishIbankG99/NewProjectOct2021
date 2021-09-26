@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+SeleniumUse,ExtentReportListener,ExtentReporterNG,75,117,2,0,13,19,3,4,2,4
+SeleniumUse,pages,Homepage,13,0,0,0,6,0,2,0,2,0
+SeleniumUse,pages,EditCustomer,3,0,0,0,1,0,1,0,1,0
+SeleniumUse,pages,AdminLogin,8,60,1,1,4,19,3,6,2,6
+SeleniumUse,pages,DeleteCustomer,3,0,0,0,1,0,1,0,1,0
+SeleniumUse,pages,NewCustomer,132,0,0,0,31,0,14,0,14,0
+SeleniumUse,utility,SendAMail,110,0,0,0,30,0,2,0,2,0
+SeleniumUse,utility,XLUtils,24,0,0,0,6,0,2,0,2,0
+SeleniumUse,utility,SendAMail.new Authenticator() {...},9,0,0,0,2,0,2,0,2,0
+SeleniumUse,utility,TestUtil,64,32,4,0,15,8,5,2,3,2
+SeleniumUse,utility,TestNGListener,80,0,0,0,15,0,8,0,8,0
+SeleniumUse,utility,WebEventListener,65,86,0,0,27,21,17,13,17,13
+SeleniumUse,base,TestBase,27,97,4,2,6,27,3,2,0,2

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>WebEventListener.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">SeleniumUse</a> &gt; <a href="index.source.html" class="el_package">utility</a> &gt; <span class="el_source">WebEventListener.java</span></div><h1>WebEventListener.java</h1><pre class="source lang-java linenums">package utility;
+
+import base.TestBase;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.events.WebDriverEventListener;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class WebEventListener extends TestBase implements WebDriverEventListener{
+<span class="fc" id="L14">    public WebEventListener()throws FileNotFoundException,IOException{</span>
+
+<span class="fc" id="L16">    }</span>
+    public void beforeNavigateTo(String url, WebDriver driver) {
+<span class="fc" id="L18">        System.out.println(&quot;Before navigating to: '&quot; + url + &quot;'&quot;);</span>
+<span class="fc" id="L19">    }</span>
+
+    public void afterNavigateTo(String url, WebDriver driver) {
+<span class="fc" id="L22">        System.out.println(&quot;Navigated to:'&quot; + url + &quot;'&quot;);</span>
+<span class="fc" id="L23">    }</span>
+
+    public void beforeChangeValueOf(WebElement element, WebDriver driver) {
+<span class="nc" id="L26">        System.out.println(&quot;Value of the:&quot; + element.toString() + &quot; before any changes made&quot;);</span>
+<span class="nc" id="L27">    }</span>
+
+    public void afterChangeValueOf(WebElement element, WebDriver driver) {
+<span class="nc" id="L30">        System.out.println(&quot;Element value changed to: &quot; + element.toString());</span>
+<span class="nc" id="L31">    }</span>
+
+    public void beforeClickOn(WebElement element, WebDriver driver) {
+<span class="fc" id="L34">        System.out.println(&quot;Trying to click on: &quot; + element.toString());</span>
+<span class="fc" id="L35">    }</span>
+
+    public void afterClickOn(WebElement element, WebDriver driver) {
+<span class="fc" id="L38">        System.out.println(&quot;Clicked on: &quot; + element.toString());</span>
+<span class="fc" id="L39">    }</span>
+
+    public void beforeNavigateBack(WebDriver driver) {
+<span class="nc" id="L42">        System.out.println(&quot;Navigating back to previous page&quot;);</span>
+<span class="nc" id="L43">    }</span>
+
+    public void afterNavigateBack(WebDriver driver) {
+<span class="nc" id="L46">        System.out.println(&quot;Navigated back to previous page&quot;);</span>
+<span class="nc" id="L47">    }</span>
+
+    public void beforeNavigateForward(WebDriver driver) {
+<span class="nc" id="L50">        System.out.println(&quot;Navigating forward to next page&quot;);</span>
+<span class="nc" id="L51">    }</span>
+
+    public void afterNavigateForward(WebDriver driver) {
+<span class="nc" id="L54">        System.out.println(&quot;Navigated forward to next page&quot;);</span>
+<span class="nc" id="L55">    }</span>
+
+    public void onException(Throwable error, WebDriver driver) {
+<span class="nc" id="L58">        System.out.println(&quot;Exception occured: &quot; + error);</span>
+        try {
+<span class="nc" id="L60">            TestUtil.takeScreenShot();</span>
+<span class="nc" id="L61">        } catch (IOException e) {</span>
+<span class="nc" id="L62">            e.printStackTrace();</span>
+        }
+<span class="nc" id="L64">    }</span>
+
+    public void beforeFindBy(By by, WebElement element, WebDriver driver) {
+<span class="fc" id="L67">        System.out.println(&quot;Trying to find Element By : &quot; + by.toString());</span>
+<span class="fc" id="L68">    }</span>
+
+    public void afterFindBy(By by, WebElement element, WebDriver driver) {
+<span class="fc" id="L71">        System.out.println(&quot;Found Element By : &quot; + by.toString());</span>
+<span class="fc" id="L72">    }</span>
+
+    /*
+     * non overridden methods of WebListener class
+     */
+    public void beforeScript(String script, WebDriver driver) {
+<span class="fc" id="L78">        System.out.println(&quot;Found script By : &quot; +script);</span>
+<span class="fc" id="L79">    }</span>
+
+    public void afterScript(String script, WebDriver driver) {
+<span class="fc" id="L82">    }</span>
+
+    public void beforeAlertAccept(WebDriver driver) {
+        // TODO Auto-generated method stub
+
+<span class="nc" id="L87">    }</span>
+
+    public void afterAlertAccept(WebDriver driver) {
+        // TODO Auto-generated method stub
+
+<span class="nc" id="L92">    }</span>
+
+    public void afterAlertDismiss(WebDriver driver) {
+        // TODO Auto-generated method stub
+
+<span class="nc" id="L97">    }</span>
+
+    public void beforeAlertDismiss(WebDriver driver) {
+        // TODO Auto-generated method stub
+
+<span class="nc" id="L102">    }</span>
+
+    public void beforeNavigateRefresh(WebDriver driver) {
+        // TODO Auto-generated method stub
+
+<span class="nc" id="L107">    }</span>
+
+    public void afterNavigateRefresh(WebDriver driver) {
+        // TODO Auto-generated method stub
+
+<span class="nc" id="L112">    }</span>
+
+    public void beforeChangeValueOf(WebElement element, WebDriver driver, CharSequence[] keysToSend) {
+        // TODO Auto-generated method stub
+
+<span class="fc" id="L117">    }</span>
+
+    public void afterChangeValueOf(WebElement element, WebDriver driver, CharSequence[] keysToSend) {
+        // TODO Auto-generated method stub
+
+<span class="fc" id="L122">    }</span>
+	@Override
+	public void beforeSwitchToWindow(String windowName, WebDriver driver) {
+		// TODO Auto-generated method stub
+		
+<span class="nc" id="L127">	}</span>
+	@Override
+	public void afterSwitchToWindow(String windowName, WebDriver driver) {
+		// TODO Auto-generated method stub
+		
+<span class="nc" id="L132">	}</span>
+	@Override
+	public &lt;X&gt; void beforeGetScreenshotAs(OutputType&lt;X&gt; target) {
+		// TODO Auto-generated method stub
+		
+<span class="nc" id="L137">	}</span>
+	@Override
+	public &lt;X&gt; void afterGetScreenshotAs(OutputType&lt;X&gt; target, X screenshot) {
+		// TODO Auto-generated method stub
+		
+<span class="nc" id="L142">	}</span>
+	@Override
+	public void beforeGetText(WebElement element, WebDriver driver) {
+		// TODO Auto-generated method stub
+		
+<span class="fc" id="L147">	}</span>
+	@Override
+	public void afterGetText(WebElement element, WebDriver driver, String text) {
+		// TODO Auto-generated method stub
+		
+<span class="fc" id="L152">	}</span>
+
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.7.9.201702052155</span></div></body></html>
